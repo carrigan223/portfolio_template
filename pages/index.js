@@ -1,8 +1,8 @@
 import GreetingContainer from "@/components/shared/container/greeting/greetingContainer";
 import React from "react";
 
-const index = () => {
+const Home = () => {
   return <GreetingContainer text={"Home"} />;
 };
 
-export default index;
+export default Home;
